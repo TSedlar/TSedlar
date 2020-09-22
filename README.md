@@ -10,7 +10,7 @@
 </p>
 
 <h4 align="center">
-A technology enthusiast who is a highly motivated and resourceful individual who multitasks, meets deadlines, thinks outside of the box, and enjoys learning.
+A technology enthusiast who is a highly motivated and resourceful individual that multitasks, meets deadlines, thinks outside of the box, and enjoys learning.
 </h4>
 
 <br>
